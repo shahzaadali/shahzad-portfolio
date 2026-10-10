@@ -1,16 +1,112 @@
-# React + Vite
+# Shahzad Ali — AI Engineer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, responsive personal portfolio showcasing my skills, projects, education, and professional experience in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing.
 
-Currently, two official plugins are available:
+Built with React.js, Vite, JavaScript, and custom CSS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Portfolio
 
-## React Compiler
+**[Visit My Portfolio](https://shahzad-portfolio-tan.vercel.app/)**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 👨‍💻 About Me
 
-## Expanding the Oxlint configuration
+I'm Shahzad Ali, an aspiring AI Engineer with a Bachelor of Science in Data Science from Khwaja Fareed University of Engineering and Information Technology (KFUEIT), Rahim Yar Khan, Pakistan.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+I enjoy developing practical AI solutions using Python, Machine Learning, and Deep Learning. I'm also interested in AI Agents, AI Automation, and LLM-based applications.
+
+## 🛠️ Technical Skills
+
+**Programming & Data:** Python, SQL, Pandas, NumPy, Matplotlib, Seaborn
+
+**Machine Learning:** Scikit-learn, Classification, Regression, Data Preprocessing, Model Evaluation
+
+**Deep Learning & Computer Vision:** TensorFlow, Keras, CNNs, Image Classification, Computer Vision
+
+**NLP & AI Automation:** Natural Language Processing, CountVectorizer, AI Automation, AI Agents, Workflow Automation
+
+**Development Tools:** Git, GitHub, VS Code, React (Basic)
+
+## 🚀 Featured Projects
+
+### 1. Kidney Stone Detection Using CNN
+
+A deep learning application that uses a Convolutional Neural Network to classify ultrasound images as Stone or Normal.
+
+**Technologies:** Python, TensorFlow, Keras, CNN, Streamlit, NumPy, Pillow
+
+### 2. Face Mask Detection
+
+A computer vision application that identifies whether a person is wearing a face mask using webcam input or uploaded images.
+
+**Technologies:** Python, TensorFlow, Keras
+
+### 3. Fake News Detection
+
+An NLP-based machine learning application that analyzes user-entered news text and predicts whether it is Fake or Real.
+
+**Technologies:** Python, NLP, CountVectorizer, Machine Learning
+
+*Project visuals on the portfolio website are illustrative representations of the applications.*
+
+## 💼 Professional Experience
+
+**AI Intern — CodAgentic**
+
+April 2026 – June 2026
+
+- Contributed to AI-based web application development using FastAPI.
+- Collaborated with developers to build, test, and refine software solutions.
+
+**ML Intern — Arch Technologies**
+
+June 2025 – July 2025
+
+- Analyzed real-world datasets to extract actionable insights.
+- Conducted iterative testing and performance evaluation.
+
+## 🎓 Education
+
+**BS Data Science (2022–2026)**
+
+Khwaja Fareed University of Engineering and Information Technology (KFUEIT)
+
+CGPA: 3.21 / 4.00
+
+## ⚙️ Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/shahzaadali/shahzad-portfolio.git
+```
+
+Navigate to the project:
+
+```bash
+cd shahzad-portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in your terminal.
+
+## 📬 Connect With Me
+
+- **Portfolio:** https://shahzad-portfolio-tan.vercel.app/
+- **LinkedIn:** https://www.linkedin.com/in/shahzadali007/
+- **GitHub:** https://github.com/shahzaadali
+- **Email:** shahzadali.engineer@gmail.com
+
+---
+
+Built with React, Vite, and a passion for Artificial Intelligence.
